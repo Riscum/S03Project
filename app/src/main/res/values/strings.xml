@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">S03Project</string>
+    <string name="sTitleStudents">Alunos</string>
+
+    <string-array name="saStudents">
+        <item>Eugénia Ferreira</item>
+        <item>Maria Oliveira</item>
+        <item>Judite Costa</item>
+        <item>Domingos Ferreira</item>
+        <item>Aurora Gonçalves</item>
+        <item>Vicente Coelho</item>
+    </string-array>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_add_friends_to_messages">Choose ListView background Color</string>
+    <string-array name="pref_example_list_titles">
+        <item>Baclk</item>
+        <item>White</item>
+        <item>Gray</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string name="pref_title_textview_bg_color">Choose TextView background Color</string>
+    <string-array name="pref_textview_bg_titles">
+        <item>Baclk</item>
+        <item>White</item>
+        <item>Gray</item>
+    </string-array>
+    <string-array name="pref_textview_bg_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
